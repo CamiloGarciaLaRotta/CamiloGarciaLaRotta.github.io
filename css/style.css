@@ -52,7 +52,18 @@ footer {
 .icon {
   height: 6em;
   margin: 10px;
-} 
+}
+
+main p {
+  font-family: monospace;
+  font-size: 1.5em;
+}
+
+
+.small_icon {
+  height: 4em;
+  margin: 10px;
+}
 
 footer {
   margin: 20px 0;
@@ -60,7 +71,7 @@ footer {
 }
 
 hr {
-  margin: 10px 30px;
+  margin: 40px 30px;
 }
 
 .top_hr {
@@ -71,11 +82,11 @@ hr {
   grid-area: bottom_hr;
 }
 
-@media screen and (min-width: 800px) 
+@media screen and (min-width: 800px)
 {
   body {
     grid-template-columns: 1fr 700 1fr;
-    grid-template-areas: 
+    grid-template-areas:
     ". header ."
     ". top_hr ."
     ". main ."
@@ -88,7 +99,7 @@ hr {
   }
 
   main {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   .name {
