@@ -54,6 +54,10 @@ footer {
   margin: 10px;
 }
 
+.project_box {
+  margin: 10px 0px;
+}
+
 main p {
   font-family: monospace;
   font-size: 1.5em;
@@ -71,7 +75,7 @@ footer {
 }
 
 hr {
-  margin: 40px 30px;
+  margin: 5px 30px;
 }
 
 .top_hr {
@@ -98,8 +102,12 @@ hr {
     grid-template-columns: 1fr 2fr;
   }
 
+  hr {
+    margin: 50px 30px;
+  }
+
   main {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 
   .name {
