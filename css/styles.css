@@ -1,0 +1,202 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #F4F4F4;
+  display: grid;
+  grid-template-areas:
+  "header"
+  "top_hr"
+  "main"
+  "bottom_hr"
+  "footer";
+}
+
+header {
+  margin-top: 30px;
+  display: grid;
+  grid-area: header;
+  justify-items: center;
+}
+
+main {
+  display: grid;
+  grid-area: main;
+  padding: 20px;
+}
+
+footer {
+  grid-area: footer;
+  justify-self: center;
+}
+
+hr {
+  margin: 30px 30px;
+  border: 1px solid #c5c5c5;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 2.5em;
+}
+
+h2,
+h3 {
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+h3 {
+  padding-top: 10px;
+  color:#ca2d2d;
+}
+
+p {
+  font-family: monospace;
+  font-size: 1.5em;
+}
+
+a {
+  color: black;
+  cursor: pointer;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+}
+
+li {
+ list-style-type: none;
+}
+
+.meta {
+  font-size: 1em;
+}
+
+.link {
+  color: red;
+}
+
+.logo {
+  height: 10em;
+}
+
+.name {
+  display: none;
+}
+
+.project_box {
+  margin: 10px 0px;
+}
+
+.icon {
+  height: 6em;
+  margin: 10px;
+}
+
+.bordered {
+  border: 1px solid #ddd;
+}
+
+.small_icon {
+  height: 3.5em;
+  margin: 10px;
+}
+
+.top_hr {
+  grid-area: top_hr;
+}
+
+.bottom_hr {
+  grid-area: bottom_hr;
+}
+
+.blog {
+  padding-top: 20px;
+}
+.blog * {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: monospace;
+}
+
+.blog a {
+  color: red;
+}
+
+.blog ul {
+  padding-left: 35px;
+}
+.blog li {
+  font-size: 1.5em;
+  list-style-type: lower-greek;
+}
+
+.blog h1,
+.blog h2 {
+  text-decoration: underline;
+}
+
+.blog h1 {
+  color: #1c1c8b;
+}
+
+.blog h2 {
+  font-size: 2em;
+  color: #3232c3;
+}
+
+.blog h3 {
+  font-size: 1.5em;
+  color: #5050ee;
+}
+
+@media screen and (min-width: 768px)
+{
+  body {
+    /* height: 100vh; */
+    justify-items: stretch;
+    align-content: center;
+    grid-template-columns: 1fr 900px 1fr;
+    grid-template-areas:
+    ". header ."
+    ". top_hr ."
+    ". main ."
+    ". bottom_hr ."
+    ". footer .";
+  }
+
+  header {
+    grid-template-columns: 1fr 2fr;
+  }
+
+ ul {
+    display: grid;
+    justify-self: center;
+  }
+  .three-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .one-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  main {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .blog-title {
+    display:none;
+  }
+
+  .name {
+    display: block;
+    align-self: center;
+    text-align: end;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+}

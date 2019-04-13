@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Site</title>
+    <link>http://camilogarcialarotta.github.io/</link>
+    <description>Recent content on Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Apr 2019 11:22:59 -0400</lastBuildDate>
+    
+	<atom:link href="http://camilogarcialarotta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C Blog Post</title>
+      <link>http://camilogarcialarotta.github.io/c-blog-post/</link>
+      <pubDate>Sat, 13 Apr 2019 11:22:59 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/c-blog-post/</guid>
+      <description>I think that I shall never see A poem lovely as a tree.
+A tree whose hungry mouth is prest Against the earth’s sweet flowing breast;
+A tree that looks at God all day, And lifts her leafy arms to pray;</description>
+    </item>
+    
+    <item>
+      <title>B Blog Post</title>
+      <link>http://camilogarcialarotta.github.io/b-blog-post/</link>
+      <pubDate>Sat, 13 Apr 2019 11:22:57 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/b-blog-post/</guid>
+      <description>That it will never come again Is what makes life so sweet. Believing what we don’t believe Does not exhilarate.
+That if it be, it be at best An ablative estate &amp;ndash; This instigates an appetite Precisely opposite.</description>
+    </item>
+    
+    <item>
+      <title>Tack Design Thinking</title>
+      <link>http://camilogarcialarotta.github.io/tack-design-thinking/</link>
+      <pubDate>Sat, 13 Apr 2019 11:16:28 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/tack-design-thinking/</guid>
+      <description>The concept of a job application tracking helper came about for the semester project for ECSE 428 at McGill University. The purpose of the class being applying learned SW Engineering methodologies and CS concepts to design and implement a product. Because groups were made of 15 students, the basic idea of a helped got expanded to accomodate extra features. We ended up with a web app (with auth &amp;amp; inhouse job applications) and a Chrome Extension helper.</description>
+    </item>
+    
+  </channel>
+</rss>
