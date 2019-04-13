@@ -119,8 +119,14 @@ li {
 
  ul {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
     justify-self: center;
+  }
+  main > ul {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  footer > ul {
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .name {
