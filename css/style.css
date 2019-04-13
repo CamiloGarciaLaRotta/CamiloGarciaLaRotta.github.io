@@ -60,6 +60,10 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: none;
 }
 
+li {
+ list-style-type: none;
+}
+
 .logo {
   height: 10em;
 }
@@ -113,7 +117,7 @@ a:link, a:visited, a:hover, a:active {
     grid-template-columns: 1fr 2fr;
   }
 
-  main > nav {
+ ul {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-self: center;
