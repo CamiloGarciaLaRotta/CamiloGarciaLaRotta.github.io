@@ -121,12 +121,12 @@ li {
     display: grid;
     justify-self: center;
   }
-  main > ul {
-    grid-template-columns: repeat(5, 1fr);
+  .three-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 
-  footer > ul {
-    grid-template-columns: repeat(3, 1fr);
+  .one-grid {
+    grid-template-columns: repeat(1, 1fr);
   }
 
   .name {
