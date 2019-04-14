@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Site</title>
-    <link>http://camilogarcialarotta.github.io/</link>
-    <description>Recent content on Personal Site</description>
+    <title>short-story on Personal Site</title>
+    <link>http://camilogarcialarotta.github.io/tags/short-story/</link>
+    <description>Recent content in short-story on Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 11:16:28 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Apr 2018 21:50:07 -0400</lastBuildDate>
     
-	<atom:link href="http://camilogarcialarotta.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://camilogarcialarotta.github.io/tags/short-story/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tack Design Thinking</title>
-      <link>http://camilogarcialarotta.github.io/tack-design-thinking/</link>
-      <pubDate>Sat, 13 Apr 2019 11:16:28 -0400</pubDate>
-      
-      <guid>http://camilogarcialarotta.github.io/tack-design-thinking/</guid>
-      <description>The concept of a job application tracking helper came about for the semester project for ECSE 428 at McGill University. The purpose of the class being applying learned SW Engineering methodologies and CS concepts to design and implement a product. Because groups were made of 15 students, the basic idea of a helped got expanded to accomodate extra features. We ended up with a web app (with auth &amp;amp; inhouse job applications) and a Chrome Extension helper.</description>
-    </item>
-    
-    <item>
-      <title>Fox Trot</title>
-      <link>http://camilogarcialarotta.github.io/fox-trot/</link>
-      <pubDate>Sat, 12 May 2018 21:22:11 -0400</pubDate>
-      
-      <guid>http://camilogarcialarotta.github.io/fox-trot/</guid>
-      <description>Fox Trot Folding flops, cotton tops
-clouds rolling past Vendôme
-Tacky bridges, rusted beams
-complementing Summer&amp;rsquo;s green
-Neon hue, flickering light
-Five red roses in the night</description>
-    </item>
     
     <item>
       <title>Wino</title>
@@ -74,26 +51,6 @@ Era un comando de Más o menos una docena de soldados del ejército nacional en 
     </item>
     
     <item>
-      <title>Euforia</title>
-      <link>http://camilogarcialarotta.github.io/euforia/</link>
-      <pubDate>Thu, 23 Mar 2017 21:17:16 -0400</pubDate>
-      
-      <guid>http://camilogarcialarotta.github.io/euforia/</guid>
-      <description>Euforia is To float in open waters
-Drifting with the curl
-Smoothly sandwiched
-Between sea and sun
-To jump onto a creek
-Not able to see you own feet
-The midnight water and skin
-Not two, but one
-To run under Summer rain
-Soaked down to the bones
-Sweet vivid heavy drops
-Pouring down like champagne</description>
-    </item>
-    
-    <item>
       <title>On How To Land An Airplane</title>
       <link>http://camilogarcialarotta.github.io/airplane/</link>
       <pubDate>Sat, 04 Mar 2017 21:43:24 -0400</pubDate>
@@ -120,51 +77,6 @@ They would suddenly go ape shit scared when the autopilot light turns off and th
       
       <guid>http://camilogarcialarotta.github.io/dona-iniesta/</guid>
       <description>Las aguas del río Magdalena, diáfanas a la altura de la vereda, perfumaban los pastos de un olor a vainilla en la madrugada. En la época en la cual todavía se encontraban venados por esos lares, no era raro verles podando las matas de frambuesa que se apoderaron de los puentes del río. Fue tan grave la invasión de frambuesas, que la gente de la zona dejó de comer la fruta de la mamera de haber tenido que comer desayuno, almuerzo y cena de frambuesas durante toda una generación.</description>
-    </item>
-    
-    <item>
-      <title>Maritimes</title>
-      <link>http://camilogarcialarotta.github.io/maritimes/</link>
-      <pubDate>Fri, 03 Feb 2017 21:40:49 -0400</pubDate>
-      
-      <guid>http://camilogarcialarotta.github.io/maritimes/</guid>
-      <description>Maritimes Survive a drive through a starry obsidian night
-And you might wake up to a fiery ruby light.
-Warth will brighten up the lonely rock,
-That wind and sea have cut off from this world.
-Leave your blood at the salty stone dock
-Then clear your wounds on its icy water pond.
-Your wild animals will push you forth;
-Pop your head out of the car’s window like a dog;</description>
-    </item>
-    
-    <item>
-      <title>Vik</title>
-      <link>http://camilogarcialarotta.github.io/vik/</link>
-      <pubDate>Sat, 26 Nov 2016 21:48:33 -0400</pubDate>
-      
-      <guid>http://camilogarcialarotta.github.io/vik/</guid>
-      <description>Vik My wildest journey
-Was not to be raised by the Andes’ mist,
-Nor to fly through psychedelic dreams.
-It was to map your satin skin,
-To conquer your bare back
-Across the untamed wrath
-Of the Viking’s land</description>
-    </item>
-    
-    <item>
-      <title>María</title>
-      <link>http://camilogarcialarotta.github.io/maria/</link>
-      <pubDate>Fri, 25 Nov 2016 21:39:43 -0400</pubDate>
-      
-      <guid>http://camilogarcialarotta.github.io/maria/</guid>
-      <description>María María la de los ojos color canela,
-Lleva la mirada baja porque se le murió su abuela.
-Camina con pasos lentos,
-Porque ya no hay prisa
-A traves de aquellos eucaliptos
-Que de pequeña le daban pa’ la gripa.</description>
     </item>
     
     <item>

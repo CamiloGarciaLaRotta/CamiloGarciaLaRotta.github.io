@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>french on Personal Site</title>
+    <link>http://camilogarcialarotta.github.io/tags/french/</link>
+    <description>Recent content in french on Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jun 2016 21:29:30 -0400</lastBuildDate>
+    
+	<atom:link href="http://camilogarcialarotta.github.io/tags/french/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Bataille de Plataea</title>
+      <link>http://camilogarcialarotta.github.io/plataea/</link>
+      <pubDate>Thu, 02 Jun 2016 21:29:30 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/plataea/</guid>
+      <description>Le garçon ne devait avoir qu’une douzaine d’hivers vécus. Il marchait avec la légèreté des pas que les enfants perdent quand ils deviennent hommes. Il suivait le chemin qui flânait les pieds des montagnes de la frontière. Les envahisseurs avaient déjà franchi ces monts, il n’y avait que des prairies d’ici jusqu’à la capitale. Devant lui, après une colline, il devait trouver le bataillon ennemi et celui de la république.</description>
+    </item>
+    
+  </channel>
+</rss>

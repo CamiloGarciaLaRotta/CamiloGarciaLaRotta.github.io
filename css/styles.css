@@ -127,7 +127,8 @@ li {
 }
 
 .blog ul {
-  padding-left: 35px;
+  padding-left: 45px;
+  background: #cce5ff;
 }
 .blog li {
   font-size: 1.5em;

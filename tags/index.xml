@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 11:22:59 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 11:16:28 -0400</lastBuildDate>
     
 	<atom:link href="http://camilogarcialarotta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>poetry</title>
-      <link>http://camilogarcialarotta.github.io/tags/poetry/</link>
-      <pubDate>Sat, 13 Apr 2019 11:22:59 -0400</pubDate>
-      
-      <guid>http://camilogarcialarotta.github.io/tags/poetry/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>brainstorming</title>
@@ -26,6 +17,42 @@
       <pubDate>Sat, 13 Apr 2019 11:16:28 -0400</pubDate>
       
       <guid>http://camilogarcialarotta.github.io/tags/brainstorming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>http://camilogarcialarotta.github.io/tags/poem/</link>
+      <pubDate>Sat, 12 May 2018 21:22:11 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>http://camilogarcialarotta.github.io/tags/spanish/</link>
+      <pubDate>Sat, 12 May 2018 21:22:11 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short-story</title>
+      <link>http://camilogarcialarotta.github.io/tags/short-story/</link>
+      <pubDate>Mon, 30 Apr 2018 21:50:07 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/tags/short-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>french</title>
+      <link>http://camilogarcialarotta.github.io/tags/french/</link>
+      <pubDate>Thu, 02 Jun 2016 21:29:30 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/tags/french/</guid>
       <description></description>
     </item>
     
