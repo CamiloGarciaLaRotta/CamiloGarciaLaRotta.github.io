@@ -177,6 +177,9 @@ li {
     display: grid;
     justify-self: center;
   }
+  .four-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
   .three-grid {
     grid-template-columns: repeat(3, 1fr);
   }
