@@ -54,8 +54,8 @@ h3 {
 }
 
 p {
-  font-family: monospace;
-  font-size: 1.5em;
+  font-family: roboto;
+  font-size: 1.2em;
 }
 
 a {
@@ -69,6 +69,11 @@ a:link, a:visited, a:hover, a:active {
 
 li {
  list-style-type: none;
+}
+
+.subtitle {
+  font-size: 1em;
+  color: #565252;
 }
 
 .meta {
