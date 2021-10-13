@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kivus on Personal Site</title>
+    <link>http://camilogarcialarotta.github.io/kivu/</link>
+    <description>Recent content in Kivus on Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 11:22:59 -0400</lastBuildDate>
+    
+	<atom:link href="http://camilogarcialarotta.github.io/kivu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hi Charley 🙌🏽</title>
+      <link>http://camilogarcialarotta.github.io/kivu/gloria/</link>
+      <pubDate>Tue, 12 Oct 2021 11:22:59 -0400</pubDate>
+      
+      <guid>http://camilogarcialarotta.github.io/kivu/gloria/</guid>
+      <description>👋🏽 Glad you found this note  Hope this bits and bytes find you, Jaro, and (banana? peach?) alright.
+Full disclosure before you read anything from this point on: it&amp;rsquo;s ok if you choose not to read these notes at all. What some people hold as cherished memories, others prefer to forget altogether. To make things worse, I find that with time my brain tends to blur the bad things, ignore important details, and so I get a hazy but warm picture of many events.</description>
+    </item>
+    
+  </channel>
+</rss>

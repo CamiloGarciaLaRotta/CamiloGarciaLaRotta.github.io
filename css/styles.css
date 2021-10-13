@@ -55,7 +55,7 @@ h3 {
 }
 
 p {
-  font-family: roboto;
+  font-family: consolas;
   font-size: 1.2em;
 }
 
@@ -125,7 +125,9 @@ li {
 .blog * {
   padding-top: 10px;
   padding-bottom: 10px;
-  font-family: monospace;
+  font-family: tahoma;
+  letter-spacing: 2px;
+  line-height: 1.9;
 }
 
 .blog a {

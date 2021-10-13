@@ -13,10 +13,10 @@
     
     <item>
       <title>Tack Design Thinking</title>
-      <link>http://camilogarcialarotta.github.io/tack-design-thinking/</link>
+      <link>http://camilogarcialarotta.github.io/blog/tack-design-thinking/</link>
       <pubDate>Sat, 13 Apr 2019 11:16:28 -0400</pubDate>
       
-      <guid>http://camilogarcialarotta.github.io/tack-design-thinking/</guid>
+      <guid>http://camilogarcialarotta.github.io/blog/tack-design-thinking/</guid>
       <description>The concept of a job application tracking helper came up for the semester project for ECSE 428 at McGill University.The purpose of the class is to apply learned SW Engineering methodologies and CS concepts to design and implement a product.
 Because groups were made of 15 students, the basic idea of a helper got expanded to accomodate extra features.We ended up with a web app (with auth &amp;amp; inhouse job applications) and a Chrome Extension helper.</description>
     </item>
